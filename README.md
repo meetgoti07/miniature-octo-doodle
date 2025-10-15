@@ -1,6 +1,6 @@
 # MNIST Digit Recognition - 7 Different Methods 🤖
 
-[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2024-blueviolet)](https://hacktoberfest.digitalocean.com/)
+[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet)](https://hacktoberfest.digitalocean.com/)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12+-orange.svg)](https://tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.12+-red.svg)](https://pytorch.org/)
