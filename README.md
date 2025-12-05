@@ -196,9 +196,6 @@ Perfect for:
 - [PyTorch Documentation](https://pytorch.org/)
 - [scikit-learn Documentation](https://scikit-learn.org/)
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🌟 Acknowledgments
 
